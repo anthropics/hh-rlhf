@@ -2,7 +2,7 @@
 
 This repository provides access to:
 1. Human preference data about helpfulness and harmlessness
-2. Human generated red teaming data
+2. Human-generated red teaming data
 
 Each of these datasets are described further below. 
 
