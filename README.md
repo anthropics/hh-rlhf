@@ -6,7 +6,7 @@ This repository provides access to:
 
 Each of these datasets are described further below. 
 
-**Disclaimer**: The data contain content that may be offensive or upsetting. Topics include, but are not limited to, discriminatory language and discussions of abuse, violence, self-harm, exploitation, and other potentially upsetting subject matter. Please only engage with the data in accordance with your own personal risk tolerance. The data are intended for research purposes, especially research that can make models *less* harmful. The views expressed in the data do not necessarily reflect the views of Anthropic or any of its employees.
+**Disclaimer**: The data contain content that may be offensive or upsetting. Topics include, but are not limited to, discriminatory language and discussions of abuse, violence, self-harm, exploitation, and other potentially upsetting subject matter. Please only engage with the data in accordance with your own personal risk tolerance. The data are intended for research purposes, especially research that can make models *less* harmful. The views expressed in the data do not reflect the views of Anthropic or any of its employees.
 
 ## Human preference data about helpfulness and harmlessness
 
