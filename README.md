@@ -20,7 +20,7 @@ Details about the data collection process and crowdworker population can be foun
 
 ## Red teaming data
 
-The data are described in the paper: [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org). If you find the data useful, please cite the paper.
+The data are described in the paper: [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://www.anthropic.com/red_teaming.pdf). If you find the data useful, please cite the paper.
 
 Details about the data and data collection procedures can be found in the Datasheet in the appendix of the paper. 
 
