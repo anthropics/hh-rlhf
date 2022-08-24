@@ -2,7 +2,7 @@
 
 This repository provides access to:
 1. Human preference data about helpfulness and harmlessness from [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
-2. Human-generated red teaming data from [Red Teaming Language Models](https://arxiv.org).
+2. Human-generated red teaming data from [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://www.anthropic.com/red_teaming.pdf).
 
 Each of these datasets are described further below. 
 
