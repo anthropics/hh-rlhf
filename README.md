@@ -12,11 +12,11 @@ Each of these datasets are described further below.
 
 The data are described in the paper: [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862). If you find the data useful, please cite the paper. The data format is very simple -- each line of the jsonl files contains a pair of texts, one "chosen" and one "rejected".
 
-For **helpfulness**, the data are grouped into train/test splits in three tranches: from our base models (context-distilled 52B language models), via rejection sampling (mostly with best-of-16 sampling) against an early preference model, and a dataset sampled during our iterated "online" process. 
+For **helpfulness**, the data are grouped into train/test splits into three tranches: from our base models (context-distilled 52B language models), via rejection sampling (mostly with best-of-16 sampling) against an early preference model, and a dataset sampled during our iterated "online" process. 
 
 For **harmlessness**, the data are only collected for our base models, but otherwise formatted in the same way.
 
-Details about the data collection process and crowdworker population can be found in the paper, specifically in section 2 and appendix D. 
+Details about the data collection process and crowdworker population can be found in the paper, specifically in Section 2 and Appendix D. 
 
 ## Red teaming data
 
