@@ -1,5 +1,8 @@
 ## Overview
 
+> [!NOTE]  
+> This github repo is now deprecated in favor of the HuggingFace hosted repository which contains the same data: https://huggingface.co/datasets/Anthropic/hh-rlhf
+
 This repository provides access to:
 1. Human preference data about helpfulness and harmlessness from [Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2204.05862)
 2. Human-generated red teaming data from [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/abs/2209.07858).
